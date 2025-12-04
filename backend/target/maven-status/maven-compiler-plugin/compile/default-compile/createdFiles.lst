@@ -1,0 +1,5 @@
+com\tripplanner\backend\repository\UserRepository.class
+com\tripplanner\backend\TripPlannerBackendApplication.class
+com\tripplanner\backend\service\UserService.class
+com\tripplanner\backend\model\User.class
+com\tripplanner\backend\controller\UserController.class
